@@ -15,9 +15,9 @@ El objetivo de esta parte del tp es que los integrantes del grupo apliquen el wo
 
 [borrar esto y personalizar el readme con sus datos]
 
-## Grupo Nº: 99
+## Grupo Nº: 03
 ## Integrantes:
-* pepe
-* pepito
-* pepa
-* pepita
+* Martín Brustolon
+* José Galvantula
+* Joaqui Ramos
+* Tini Stoessel 
